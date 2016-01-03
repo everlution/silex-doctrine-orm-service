@@ -1,5 +1,5 @@
 {
-    "name": "themoneyplatform/silex-doctrine-orm-service",
+    "name": "everlution/silex-doctrine-orm-service",
     "require": {
         "php": ">=5.3",
         "doctrine/orm": "2.5.*",
