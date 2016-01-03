@@ -1,0 +1,20 @@
+{
+    "name": "themoneyplatform/silex-doctrine-orm-service",
+    "require": {
+        "php": ">=5.3",
+        "doctrine/orm": "2.5.*",
+        "doctrine/dbal": "~2.2",
+        "symfony/yaml": "3.0.*"
+    },
+    "require-dev": {
+        "silex/silex": "~1.3",
+        "symfony/var-dumper": "2.6.*",
+        "phpunit/phpunit": "4.*",
+        "fabpot/php-cs-fixer": "1.11.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Everlution\\SilexDoctrineOrmService\\": "src/"
+        }
+    }
+}
